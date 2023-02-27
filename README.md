@@ -1,9 +1,9 @@
-# test
+# Fulltest
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ### Description
 
-test
+testing full functionality
 
 ### Table of Contents
 
@@ -33,13 +33,13 @@ npm i
 
 ## Usage
 
-
+node
 
 ## License
 
 ## Contributing
 
-test
+branching
 
 ## Tests
 
@@ -52,7 +52,7 @@ npm test
 
 ### Questions
 
-For any inquiries or questions please contact me directly at test.
+For any inquiries or questions please contact me directly at keanu.knighton@gmail.com.
 
 You can findd more of my work  at [undefined](https://github.com/undefined).
 

@@ -7,7 +7,7 @@ const generateMarkdown = require("./utils/generateMarkdown");
 const questions = [
     {
         input: 'input',
-        name: 'GitHub',
+        name: 'github',
         message: 'What is your GitHub username 🐱?'
     },
     {

@@ -67,7 +67,7 @@ ${data.test}
 
 For any inquiries or questions please contact me directly at ${data.email}.
 
-You can findd more of my work  at [${data.github}](https://github.com/${data.github}).
+You can find more of my work at [${data.github}](https://github.com/${data.github}).
 
 `;
 }
